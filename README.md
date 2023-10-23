@@ -1,4 +1,6 @@
-# contact-app
+# Contact-app
+Простая контактная книжка с разбивкой контактов на категории и возможностью добавить новые контакты с помощью формы.
+Стек: vue.js, scss
 
 ## Project setup
 ```
@@ -14,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
